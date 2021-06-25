@@ -1,0 +1,17 @@
+{
+  "name": "cli-tool",
+  "version": "1.0.0",
+  "description": "Projeto de ferramenta de linha de comando para procurar arquivos",
+  "main": "index.js",
+  "bin": {
+    "search-files": "./bin/search-files-cli"
+  },
+  "files": [
+    "./bin"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edu Fidelis",
+  "license": "ISC"
+}
